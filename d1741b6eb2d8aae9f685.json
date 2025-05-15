@@ -2,7 +2,7 @@
   "name": "CeritaKita",
   "short_name": "CeritaKita",
   "description": "Aplikasi berbagi cerita dengan gambar, deskripsi, dan lokasi. Dapat diinstal dan berjalan offline.",
-  "start_url": "index.html",
+  "start_url": "/ceritakitaapk/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#560319",
