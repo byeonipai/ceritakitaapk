@@ -2,22 +2,22 @@
   "name": "CeritaKita",
   "short_name": "CeritaKita",
   "description": "Aplikasi berbagi cerita dengan gambar, deskripsi, dan lokasi. Dapat diinstal dan berjalan offline.",
-  "start_url": "/index.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#560319",
-  "scope": "/",
+  "scope": ".",
   "orientation": "portrait",
   "lang": "id",
   "icons": [
     {
-      "src": "/assets/open-book.png",
+      "src": "assets/open-book.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/assets/scrapbook.png",
+      "src": "assets/scrapbook.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
@@ -25,13 +25,13 @@
   ],
   "screenshots": [
     {
-      "src": "/assets/screenshot-mobile.png",
+      "src": "assets/screenshot-mobile.png",
       "sizes": "360x640",
       "type": "image/png",
       "form_factor": "narrow"
     },
     {
-      "src": "/assets/screenshot-desktop.png",
+      "src": "assets/screenshot-desktop.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide"
@@ -42,8 +42,8 @@
       "name": "Tambah Cerita",
       "short_name": "Tambah",
       "description": "Buat cerita baru",
-      "url": "/tambah-cerita",
-      "icons": [{ "src": "/assets/open-book.png", "sizes": "192x192", "type": "image/png" }]
+      "url": "tambah-cerita",
+      "icons": [{ "src": "assets/open-book.png", "sizes": "192x192", "type": "image/png" }]
     }
   ]
 }
